@@ -1,5 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=wayne42&theme=oldie&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayne42t&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayne42t&langs_count=10&layout=default&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayne42&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ### knowledge above all nonsense
 
